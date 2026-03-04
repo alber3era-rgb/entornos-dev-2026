@@ -20,7 +20,7 @@ Este repositorio se utilizará durante el curso 2026 para aplicar y documentar l
 ---
 
 ## Elección y Justificación del IDE
-Para el desarrollo de este módulo, he seleccionado **IntelliJ IDEA** como entorno de desarrollo integrado principal.
+Para el desarrollo de este módulo, he seleccionado IntelliJ IDEA como entorno de desarrollo integrado principal.
 
 ### Justificación Técnica:
 1. **Productividad:** Su motor de análisis estático ofrece sugerencias de código y refactorizaciones automáticas más precisas que las de otros IDEs tradicionales.
